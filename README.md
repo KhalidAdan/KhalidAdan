@@ -4,4 +4,4 @@ I'm a fullstack web developer, aspiring game developer and comic book nerd. Than
 
  - :office: I work with Gadget, a small Ottawa based startup!
  - :sunglasses: I'm currently learning the Unity and Unreal game engines 
- - :iphone: Really interested in finding new ways to create more immersive experiences on the web
+ - :iphone: Really interested in finding new ways to create more immersive experiences on the web, especially for education!
